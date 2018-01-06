@@ -2,10 +2,8 @@
 OSX Menu bar ticker for koinex
 
 - Install Requirements
-
- `$ pip install -r requirements.txt`
+  `$ pip install -r requirements.txt`
 
 - Run 
-
- `$ python main.py`
+  `$ python main.py`
 
